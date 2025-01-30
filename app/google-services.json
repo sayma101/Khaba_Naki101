@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28765558207",
+    "project_id": "khabanaki",
+    "storage_bucket": "khabanaki.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28765558207:android:d299050e8ba3d9079bbd0a",
+        "android_client_info": {
+          "package_name": "com.example.khabanaki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZxsp8O5fB8G9aDPEmr9onm3EwT4uwAhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
